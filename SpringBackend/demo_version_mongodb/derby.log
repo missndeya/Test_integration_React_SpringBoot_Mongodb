@@ -1,0 +1,45 @@
+----------------------------------------------------------------
+Mon Jan 03 13:22:58 GMT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-201b-786b-000001eb5a00 
+on database directory memory:C:\Users\dell 7240\Desktop\Formations\React\SpringBoot_React\SpringBackend\demo\cefe1bc9-7628-4929-9a49-98b292ba0975 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4b85612c 
+Loaded from file:/C:/Users/dell%207240/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\dell 7240\Desktop\Formations\React\SpringBoot_React\SpringBackend\demo
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Jan 03 13:24:28 GMT 2022:
+Shutting down instance a816c00e-017e-201b-786b-000001eb5a00 on database directory memory:C:\Users\dell 7240\Desktop\Formations\React\SpringBoot_React\SpringBackend\demo\cefe1bc9-7628-4929-9a49-98b292ba0975 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4b85612c 
+----------------------------------------------------------------
+Mon Jan 03 13:24:30 GMT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 921800c1-017e-201b-786b-000001eb5a00 
+on database directory memory:C:\Users\dell 7240\Desktop\Formations\React\SpringBoot_React\SpringBackend\demo\76e43a98-8456-4641-8e7c-71060877f5b6 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4b85612c 
+Loaded from file:/C:/Users/dell%207240/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\dell 7240\Desktop\Formations\React\SpringBoot_React\SpringBackend\demo
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Jan 03 13:24:32 GMT 2022:
+Shutting down instance 921800c1-017e-201b-786b-000001eb5a00 on database directory memory:C:\Users\dell 7240\Desktop\Formations\React\SpringBoot_React\SpringBackend\demo\76e43a98-8456-4641-8e7c-71060877f5b6 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4b85612c 
+----------------------------------------------------------------
+Mon Jan 03 13:24:33 GMT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9b638174-017e-201b-786b-000001eb5a00 
+on database directory memory:C:\Users\dell 7240\Desktop\Formations\React\SpringBoot_React\SpringBackend\demo\3e9e7bd5-1154-4851-a3be-63a7f696b78d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4b85612c 
+Loaded from file:/C:/Users/dell%207240/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\dell 7240\Desktop\Formations\React\SpringBoot_React\SpringBackend\demo
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
